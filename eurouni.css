@@ -1,0 +1,93 @@
+.alles {
+	width: 100%;
+	font-family: Raleway;
+	font-weight: 900;
+}
+
+h1 {
+	display: inline;
+	background-color: #000099;
+	text-align: center;
+	width: 100%;
+	margin: 0%;
+	padding-top: 2%; 
+	padding-bottom: 2%;
+}
+
+h1 a {
+	display: inline-block;
+	color: #F3CA09;
+	text-decoration: none;
+	background-color: #000099;
+	text-align: center;
+	width: 100%;
+	margin: 0%;
+	padding-top: 2%; 
+	padding-bottom: 2%;
+}
+
+ul {
+	width: 100%;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #000000;
+}
+
+li {
+	display: inline;
+	background-color: #000099;
+	margin: 0;
+	width: 20%
+
+}
+
+li a {
+	width: 20%;
+	color: #F3CA09;
+	text-decoration: none;
+	display: inline-block;
+	margin: 0;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	background-color: #000099;
+}
+
+li a:hover {
+	color: #000099;
+	background-color: #F3CA09;
+}
+
+li:hover {
+	color: #000099;
+	background-color: #F3CA09;
+}
+
+h1:hover {
+	color: #000099;
+	background-color: #F3CA09;
+}
+
+h1 a:hover {
+	color: #000099;
+	background-color: #F3CA09;
+}
+
+.inleiding {
+	float: center;
+	background-color: #ffd9cc;
+	padding: 1%;
+	margin: 0;
+}
+
+h3 {
+	margin: 0;
+	text-align: center;
+}
+
+img {
+	width: 50%;
+	height: auto;
+}
+
