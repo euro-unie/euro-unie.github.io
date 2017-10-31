@@ -79,11 +79,13 @@ h1 a:hover {
 	background-color: #ffd9cc;
 	padding: 1%;
 	margin: 0;
+	font-size: 25px;
 }
 
 h3 {
 	margin: 0;
 	text-align: center;
+	font-size: 25px;
 }
 
 img {
